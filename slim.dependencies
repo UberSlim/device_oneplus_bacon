@@ -1,0 +1,22 @@
+[
+  {
+    "repository": "android_device_oppo_msm8974-common",
+    "target_path": "device/oppo/msm8974-common",
+    "remote": "us"
+  },
+  {
+    "repository": "proprietary_vendor_oppo",
+    "target_path": "vendor/oppo",
+    "remote": "tm"
+  },
+  {
+    "repository": "proprietary_vendor_oneplus",
+    "target_path": "vendor/oneplus",
+    "remote": "tm"
+  },
+  {
+    "repository": "android_device_oppo_common",
+    "target_path": "device/oppo/common",
+    "remote": "us"
+  }
+]
